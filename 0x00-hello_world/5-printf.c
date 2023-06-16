@@ -3,7 +3,8 @@
 /**
  * main - Starting point of the program
  *
- * This program prints a sentence that demonstrates proper grammar,resulting in a beautiful output.
+ * This program prints a sentence that demonstrates proper grammar,
+ 		resulting in a beautiful output.
  *
  * Return: Always 0 (indicating successful execution)
  */
