@@ -13,7 +13,7 @@ int main(void)
 	while (i <= 25)
 	{
 		putchar(alphabets[i]);
-		i++
+		i++;
 	}
 	putchar('\n');
 	return (0);
