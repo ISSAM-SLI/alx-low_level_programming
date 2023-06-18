@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Printing the alphabet without q and e
+ * main - Printing all single digit numbers of base 10 starting from 0
  *
  * Return: Always 0 if Successful
  */
